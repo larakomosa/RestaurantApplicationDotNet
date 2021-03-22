@@ -1,0 +1,15 @@
+/Users/lara.komosa/Projects/RecipeApplication/OdetoFood.Data/obj/Debug/netcoreapp3.1/OdetoFood.Data.csprojAssemblyReference.cache
+/Users/lara.komosa/Projects/RecipeApplication/OdetoFood.Data/obj/Debug/netcoreapp3.1/OdetoFood.Data.AssemblyInfoInputs.cache
+/Users/lara.komosa/Projects/RecipeApplication/OdetoFood.Data/obj/Debug/netcoreapp3.1/OdetoFood.Data.AssemblyInfo.cs
+/Users/lara.komosa/Projects/RecipeApplication/OdetoFood.Data/obj/Debug/netcoreapp3.1/OdetoFood.Data.csproj.CoreCompileInputs.cache
+/Users/lara.komosa/Projects/RecipeApplication/OdetoFood.Data/bin/Debug/netcoreapp3.1/OdetoFood.Data.deps.json
+/Users/lara.komosa/Projects/RecipeApplication/OdetoFood.Data/bin/Debug/netcoreapp3.1/OdetoFood.Data.dll
+/Users/lara.komosa/Projects/RecipeApplication/OdetoFood.Data/bin/Debug/netcoreapp3.1/OdetoFood.Data.pdb
+/Users/lara.komosa/Projects/RecipeApplication/OdetoFood.Data/bin/Debug/netcoreapp3.1/OdetoFood.Core.dll
+/Users/lara.komosa/Projects/RecipeApplication/OdetoFood.Data/bin/Debug/netcoreapp3.1/OdetoFood.Core.pdb
+/Users/lara.komosa/Projects/RecipeApplication/OdetoFood.Data/obj/Debug/netcoreapp3.1/OdetoFood.Data.csproj.CopyComplete
+/Users/lara.komosa/Projects/RecipeApplication/OdetoFood.Data/obj/Debug/netcoreapp3.1/OdetoFood.Data.dll
+/Users/lara.komosa/Projects/RecipeApplication/OdetoFood.Data/obj/Debug/netcoreapp3.1/OdetoFood.Data.pdb
+/Users/lara.komosa/Projects/RecipeApplication/OdetoFood.Data/bin/Debug/netcoreapp3.1/OdetoFood.Data.runtimeconfig.json
+/Users/lara.komosa/Projects/RecipeApplication/OdetoFood.Data/bin/Debug/netcoreapp3.1/OdetoFood.Data.runtimeconfig.dev.json
+/Users/lara.komosa/Projects/RecipeApplication/OdetoFood.Data/obj/Debug/netcoreapp3.1/OdetoFood.Data.genruntimeconfig.cache
