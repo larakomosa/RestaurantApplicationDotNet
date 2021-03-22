@@ -84,3 +84,6 @@
 /Users/lara.komosa/Projects/RecipeApplication/RecipeApplication/obj/Debug/netcoreapp3.1/Razor/Pages/Restaurants/Detail.cshtml.g.cs
 /Users/lara.komosa/Projects/RecipeApplication/RecipeApplication/obj/Debug/netcoreapp3.1/Razor/Pages/Restaurants/Edit.cshtml.g.cs
 /Users/lara.komosa/Projects/RecipeApplication/RecipeApplication/obj/Debug/netcoreapp3.1/Razor/Pages/Restaurants/NotFound.cshtml.g.cs
+/Users/lara.komosa/Projects/RecipeApplication/RecipeApplication/obj/Debug/netcoreapp3.1/Razor/Pages/Restaurants/Delete.cshtml.g.cs
+/Users/lara.komosa/Projects/RecipeApplication/RecipeApplication/obj/Debug/netcoreapp3.1/Razor/Pages/Restaurants/_Summary.cshtml.g.cs
+/Users/lara.komosa/Projects/RecipeApplication/RecipeApplication/obj/Debug/netcoreapp3.1/Razor/Pages/Shared/Components/RestaurantCount/Default.cshtml.g.cs

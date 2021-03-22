@@ -1,31 +1,30 @@
 ﻿<Properties StartupConfiguration="{5FC3D0D9-1C7B-411F-836B-4E03F18BE2E3}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="RecipeApplication/Startup.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="RecipeApplication/Pages/Shared/_Layout.cshtml">
     <Files>
-      <File FileName="OdetoFood.Data/IRestaurantData.cs" Line="19" Column="1" />
-      <File FileName="OdetoFood.Data/OdetoFoodDbContext.cs" />
-      <File FileName="OdetoFood.Data/InMemoryRestaurantData.cs" Line="15" Column="14" />
-      <File FileName="RecipeApplication/Pages/Restaurants/Detail.cshtml" Line="20" Column="61" />
-      <File FileName="RecipeApplication/Pages/Restaurants/Detail.cshtml.cs" Line="18" Column="10" />
-      <File FileName="RecipeApplication/Pages/Restaurants/Edit.cshtml.cs" Line="32" Column="32" />
-      <File FileName="RecipeApplication/Pages/Restaurants/List.cshtml" Line="41" Column="15" />
-      <File FileName="RecipeApplication/Pages/Restaurants/List.cshtml.cs" Line="9" Column="22" />
-      <File FileName="OdetoFood.Core/Restaurant.cs" Line="1" Column="1" />
-      <File FileName="RecipeApplication/Pages/Restaurants/Edit.cshtml" Line="1" Column="1" />
-      <File FileName="OdetoFood.Data/Migrations/20210319180826_initialcreate.cs" Line="1" Column="1" />
-      <File FileName="OdetoFood.Data/SqlRestaurantData.cs" Line="66" Column="1" />
-      <File FileName="RecipeApplication/Startup.cs" Line="35" Column="10" />
+      <File FileName="OdetoFood.Data/SqlRestaurantData.cs" Line="1" Column="1" IsPinned="True" />
+      <File FileName="RecipeApplication/Pages/Restaurants/List.cshtml" />
+      <File FileName="RecipeApplication/ViewComponents/RestaurantCountViewComponent.cs" />
+      <File FileName="OdetoFood.Data/IRestaurantData.cs" />
+      <File FileName="OdetoFood.Data/InMemoryRestaurantData.cs" />
+      <File FileName="RecipeApplication/Pages/Shared/Components/RestaurantCount/Default.cshtml" />
+      <File FileName="RecipeApplication/Pages/_ViewImports.cshtml" />
+      <File FileName="RecipeApplication/Pages/Shared/_Layout.cshtml" Line="46" Column="14" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="RecipeApplication" expanded="True">
-            <Node name="OdetoFood.Core" expanded="True" />
             <Node name="OdetoFood.Data" expanded="True" />
             <Node name="RecipeApplication" expanded="True">
               <Node name="Pages" expanded="True">
-                <Node name="Restaurants" expanded="True" />
+                <Node name="Shared" expanded="True">
+                  <Node name="Components" expanded="True">
+                    <Node name="RestaurantCount" expanded="True" />
+                  </Node>
+                  <Node name="_Layout.cshtml" selected="True" />
+                </Node>
               </Node>
-              <Node name="Startup.cs" selected="True" />
+              <Node name="ViewComponents" expanded="True" />
             </Node>
           </Node>
         </State>
