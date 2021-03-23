@@ -1,14 +1,7 @@
 ﻿<Properties StartupConfiguration="{5FC3D0D9-1C7B-411F-836B-4E03F18BE2E3}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="RecipeApplication/Pages/Shared/_Layout.cshtml">
+  <MonoDevelop.Ide.Workbench ActiveDocument="RecipeApplication/appsettings.json">
     <Files>
-      <File FileName="OdetoFood.Data/SqlRestaurantData.cs" Line="1" Column="1" IsPinned="True" />
-      <File FileName="RecipeApplication/Pages/Restaurants/List.cshtml" />
-      <File FileName="RecipeApplication/ViewComponents/RestaurantCountViewComponent.cs" />
-      <File FileName="OdetoFood.Data/IRestaurantData.cs" />
-      <File FileName="OdetoFood.Data/InMemoryRestaurantData.cs" />
-      <File FileName="RecipeApplication/Pages/Shared/Components/RestaurantCount/Default.cshtml" />
-      <File FileName="RecipeApplication/Pages/_ViewImports.cshtml" />
-      <File FileName="RecipeApplication/Pages/Shared/_Layout.cshtml" Line="46" Column="14" />
+      <File FileName="RecipeApplication/appsettings.json" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -21,10 +14,10 @@
                   <Node name="Components" expanded="True">
                     <Node name="RestaurantCount" expanded="True" />
                   </Node>
-                  <Node name="_Layout.cshtml" selected="True" />
                 </Node>
               </Node>
               <Node name="ViewComponents" expanded="True" />
+              <Node name="appsettings.json" selected="True" />
             </Node>
           </Node>
         </State>
