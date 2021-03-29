@@ -1,22 +1,26 @@
 ﻿<Properties StartupConfiguration="{5FC3D0D9-1C7B-411F-836B-4E03F18BE2E3}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="RecipeApplication/appsettings.json">
     <Files>
-      <File FileName="RecipeApplication/appsettings.json" Line="1" Column="1" />
+      <File FileName="OdetoFood.Data/IRestaurantData.cs" Line="1" Column="1" />
+      <File FileName="OdetoFood.Data/SqlRestaurantData.cs" Line="1" Column="1" />
+      <File FileName="OdetoFood.Data/OdetoFoodDbContext.cs" />
+      <File FileName="OdetoFood.Core/Restaurant.cs" />
+      <File FileName="OdetoFood.Data/InMemoryRestaurantData.cs" />
+      <File FileName="OdetoFood.Core/CuisineType.cs" />
+      <File FileName="OdetoFood.Data/Migrations/20210319180826_initialcreate.cs" />
+      <File FileName="OdetoFood.Data/Migrations/OdetoFoodDbContextModelSnapshot.cs" />
+      <File FileName="OdetoFood.Data/Migrations/20210319180826_initialcreate.Designer.cs" />
+      <File FileName="RecipeApplication/Startup.cs" Line="32" Column="16" />
+      <File FileName="RecipeApplication/appsettings.json" Line="13" Column="4" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="RecipeApplication" expanded="True">
+            <Node name="OdetoFood.Core" expanded="True" />
             <Node name="OdetoFood.Data" expanded="True" />
             <Node name="RecipeApplication" expanded="True">
-              <Node name="Pages" expanded="True">
-                <Node name="Shared" expanded="True">
-                  <Node name="Components" expanded="True">
-                    <Node name="RestaurantCount" expanded="True" />
-                  </Node>
-                </Node>
-              </Node>
-              <Node name="ViewComponents" expanded="True" />
+              <Node name="Pages" expanded="True" />
               <Node name="appsettings.json" selected="True" />
             </Node>
           </Node>
